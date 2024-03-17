@@ -1,0 +1,285 @@
+#Home{
+    color: white;
+     text-decoration: none;
+      font-size: 22px;
+      margin-left: 270px;
+}
+
+#Homee{
+  color: white;
+   text-decoration: none;
+    font-size: 22px;
+}
+
+img.hover-shadow {
+  transition: 0.3s;
+  border-radius: 16px;
+}
+
+.hover-shadow:hover {
+  box-shadow: 3px 19px 50px 0 rgba(241, 240, 241, 0.815), 3px 19px 50px rgba(236, 234, 236, 0.815);
+}
+
+.hover-shadow:active {
+  /* Add your styles for the active (selected) state here */
+  background-color: yellow; /* For example, changing background color to yellow */
+}
+
+
+#Name{ 
+    color: white;
+    text-decoration: none;
+     font-size: 44px;
+
+}
+
+#About{
+    color: white;
+     text-decoration: none;
+     font-size: 22px;
+     margin-left : 20px;
+
+}
+
+#skill{
+    color: white;
+     text-decoration: none;
+     font-size: 22px;
+     margin-left:  20px;
+
+}
+
+#Projects{
+    color: white;
+     text-decoration: none;
+     font-size: 22px;
+     margin-left:  20px;
+
+}
+
+#paper{
+    color: white;
+     text-decoration: none;
+     font-size: 22px;
+     margin-left:  20px;
+
+}#Content{
+    color: white;
+     text-decoration: none;
+     font-size: 22px;
+     margin-left : 20px;
+
+}
+
+#title{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+#img{
+    max-width: 100px;
+    height: auto;
+}
+
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 6fr 2fr 1fr;
+    border-radius: 10px ;
+    border: 6px solid blue;
+    width: 1110px;
+    height: 500px;
+    column-gap: 10px;
+    padding-left : 89px;
+    margin-left: 73px;
+    background-color:#f3e84c;
+    border-color: white;
+
+   }
+   
+   img {
+     width: 125%;
+     height:125%;
+   }
+   
+   .text {
+     font-size: 46px;
+
+   }
+
+  .container1 {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 6fr 2fr 1fr;
+    border-radius: 10px ;
+    border: 6px solid blue;
+    width: 1110px;
+    height: 500px;
+    column-gap: 10px;
+    padding-left : 89px;
+    margin-left: 73px;
+    background-color:#00d483;
+    border-color: white;
+
+   }
+
+   .container2 {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 20fr 2fr 1fr;
+    border: 6px solid whitesmoke;
+    border-radius: 10px ;
+    width: 1110px;
+    height: 500px;
+    column-gap: 10px;
+    padding-left : 89px;
+    margin-left: 64px;
+    background-color:#FFD580			;
+    border-color: white;
+
+   }
+   
+   image1 {
+     width: 125%;
+     height:125%;
+   }
+   
+   .text1 {
+    font-family:Georgia, 'Times New Roman', serif;
+    color: rgb(3, 6, 8);
+     font-size: 19px;
+
+   }
+
+   
+  
+  
+   
+   .text11 {   
+     border: 6px solid rgb(236, 236, 241);
+    border-radius: 20px ;
+    font-family:Georgia, 'Times New Roman', serif;
+    color: rgb(248, 248, 248);
+     font-size: 19px;
+     margin-left: 270px;
+     height: 120px;
+     width: 485px;
+     margin-right: 822px;
+     background-color: rgb(218, 35, 187);
+
+   }
+
+   .text22{
+    border: 6px solid rgb(247, 247, 250);
+    border-radius: 20px ;
+    font-family:Georgia, 'Times New Roman', serif;
+    color: rgb(217, 220, 223);
+    align-items: center;
+    background-color: rgb(218, 35, 187);
+     font-size: 19px;
+     height: 120px;
+     width: 485px;
+     margin-left: 762px;
+   }
+   .qu{
+    font-size: 56px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    color: bisque;
+    padding-bottom:  52px;
+    padding-left: 592px;
+   }
+
+   .text33{
+    margin-left: 63px;
+    border: 6px solid rgb(208, 208, 211);
+    border-radius: 20px ;
+    font-family:Georgia, 'Times New Roman', serif;
+    color: rgb(217, 220, 223);
+    background-color: rgb(218, 35, 187);
+
+     font-size: 19px;
+     height: 120px;
+     width: 485px;
+     margin-left: 270px;
+
+
+   }
+
+
+#skills{
+  background-image: url('download__3_-removebg-preview.png'); 
+  border-radius: 20px ;
+  background-size: 60px;
+  background-repeat: no-repeat;
+  width: 20%; height: 85px;
+  border: 6px solid rgb(250, 250, 250); 
+  text-align: center; 
+  background-position: center right;
+  margin-top: 10px; 
+  font-size: 53px; 
+  font-family:Georgia, 'Times New Roman', serif;
+  display: inline-block;
+  text-decoration: none; 
+  color: rgb(236, 230, 230); 
+  line-height: 85px;
+  border-radius: 5px;
+  margin-left: 605px;
+  
+}
+#skills:hover {
+  background-color: #eb0000;
+}
+
+
+#pub{
+  background-image: url('download__3_-removebg-preview.png'); 
+  border-radius: 20px ;
+  background-size: 60px;
+  background-repeat: no-repeat;
+  width: 40%; height: 85px;
+  border: 6px solid rgb(250, 250, 250); 
+  text-align: center; 
+  background-position: center right;
+  margin-top: 10px; 
+  font-size: 53px; 
+  font-family:Georgia, 'Times New Roman', serif;
+  display: inline-block;
+  text-decoration: none; 
+  color: rgb(236, 230, 230); 
+  line-height: 85px;
+  border-radius: 5px;
+  margin-left: 475px;
+  
+}
+
+#pub:hover {
+  background-color: #eb0000;
+}
+
+#pro:hover {
+  background-color: #eb0000;
+}
+
+#cont{
+  border-radius: 20px ;
+  background-size: 60px;
+  background-repeat: no-repeat;
+  width: 96%; height: 85px;
+  text-align: center; 
+  background-position: center right;
+  margin-top: 10px; 
+  font-size: 53px; 
+  font-family:Georgia, 'Times New Roman', serif;
+  display: inline-block;
+  text-decoration: none; 
+  color: rgb(236, 230, 230); 
+  line-height: 85px;
+  border-radius: 5px;
+  margin-left: 24px;
+  
+
+}
+#gm{
+  padding-left: 534px;
+}
